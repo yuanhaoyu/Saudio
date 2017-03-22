@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Saudio {
+    width: 640px;
+    height: 250px;
+    border: 1px solid mediumseagreen;
+}
+
+.audioContent {
+    float: left;
+    height: 100%;
+    width: 60%;
+}
+
+.faceImg {
+    float: left;
+    height: 100%;
+    width: 39%;
+    border-left: 1px solid black;
+}
