@@ -1,0 +1,9 @@
+.Time{
+  width: 100%;
+}
+.TimeLine{
+  width: 88%;
+  height: 1px;
+  margin: 0 auto;
+  background: red;
+}

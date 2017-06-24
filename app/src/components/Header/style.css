@@ -1,0 +1,10 @@
+.Header{
+  height: 44px;
+  color: white;
+  padding: 0px 15px;
+  overflow: hidden;
+}
+.Header-Content{
+  margin-top: 10px;
+  height: 24px;
+}
